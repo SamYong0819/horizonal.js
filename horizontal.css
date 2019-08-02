@@ -42,12 +42,12 @@ html {
 
     .sliderTV__item img {
         width: 130px;
-        height: 190px;
+        height: 130px;
         cursor: pointer;
     }
 
     .sliderTV__item h1 {
-        font-size: 20px;
+        font-size: 15px;
         text-align: center;
         color: whitesmoke;
         position: relative;
@@ -77,7 +77,7 @@ html {
 
 .sliderTV__bullets {
     position: absolute;
-    top: 350px;
+    top: 250px;
     width: inherit;
     height: 25px;
     text-align: center;
@@ -108,14 +108,14 @@ html {
 
 .sliderTV__prev {
     position: absolute;
-    top: 110px;
+    top: 60px;
     left: -100px;
     width: 50px;
 }
 
 .sliderTV__next {
     position: absolute;
-    top: 110px;
+    top: 60px;
     left: 950px;
     width: 50px;
 }
